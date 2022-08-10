@@ -118,12 +118,12 @@ body {
 .div-1, .div-2, .div-3 {
   /*give the divs a width of 30%, add display:flex, set justify-content and align-items to center*/
   align-items: center;
-  color: #fff;
+  border: 5px solid lightpink;
+  color: lightpink;
   display: flex;
   line-height: 1.5em;
   font-size: 1.6em;
   justify-content: center;
-  background-color: #f16059;
   height: 300px;
   width: 30%;
 }
